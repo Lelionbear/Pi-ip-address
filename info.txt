@@ -1,2 +1,0 @@
-        inet 192.168.11.125  netmask 255.255.255.0  broadcast 192.168.11.255
-wlan0     ESSID:"CSLabs"
