@@ -1,1 +1,1 @@
-        inet 10.1.47.236  netmask 255.255.128.0  broadcast 10.1.127.255
+        inet 10.7.3.121  netmask 255.255.192.0  broadcast 10.7.63.255
