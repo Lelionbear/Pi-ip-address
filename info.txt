@@ -1,0 +1,1 @@
+#designated ip address for startup
